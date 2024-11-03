@@ -1,7 +1,6 @@
 # 🚀 GadgetHeaven - Modern E-commerce Platform
 
 [![GitHub](https://img.shields.io/badge/GitHub-GadgetHeaven-blue?style=flat&logo=github)](https://github.com/programming-hero-web-course-4/b10a8-gadget-heaven-TheToriqul)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://ph-gadget-heaven.netlify.app/)
 ![React](https://img.shields.io/badge/React-18.2.0-blue?style=flat&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3.0-38B2AC?style=flat&logo=tailwind-css)
 ![React Router](https://img.shields.io/badge/React_Router-6.10.0-CA4245?style=flat&logo=react-router)
